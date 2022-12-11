@@ -13,7 +13,7 @@ module.exports = {
           let Github = new ActionRowBuilder().addComponents(
             new ButtonBuilder()
               .setLabel("Github")
-              .setURL("https://github.com/Ahmed1Dev/Slash-Commands")
+              .setURL("https://github.com/Ahmed1Dev/slash-command-handler")
               .setStyle(ButtonStyle.Link),
           )
           let Replit = new ActionRowBuilder().addComponents(

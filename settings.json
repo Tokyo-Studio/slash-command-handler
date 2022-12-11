@@ -1,0 +1,11 @@
+{
+    "token": "", // Your BOT TOKEN
+    "loadSlashsGlobal": true, // if you want single guild select "false", to all guilds select "true"
+    "slashCommandDirs": [
+        {
+            "folderName": "slashCommands", // Don't Touch
+            "commandName": "test", // Don't Touch
+            "commandDecription": "test slash" // Don't Touch
+        }
+    ]
+}
